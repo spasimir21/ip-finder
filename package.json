@@ -1,0 +1,31 @@
+{
+    "name": "ip-finder",
+    "version": "1.0.0",
+    "description": "A simple tool to log IP addresses.",
+    "main": "main.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "dependencies": {
+        "cap": "^0.2.1",
+        "chalk": "^4.1.0",
+        "node-fetch": "^2.6.1"
+    },
+    "bin": "main.js",
+    "author": "Spasimir Pavlov",
+    "license": "MIT",
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/spasimir21/ip-finder.git"
+    },
+    "keywords": [
+        "ip",
+        "finder",
+        "hack"
+    ],
+    "bugs": {
+        "url": "https://github.com/spasimir21/ip-finder/issues"
+    },
+    "homepage": "https://github.com/spasimir21/ip-finder#readme"
+}
